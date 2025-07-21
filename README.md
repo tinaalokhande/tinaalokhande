@@ -16,10 +16,10 @@
 - 📺 [YouTube Data Analysis](https://github.com/tinaalokhande/youtube-data-analysis-project)  
   Cleaned and analyzed YouTube dataset using Python, Pandas & Matplotlib.
 
-- 🤖 [IoT-based Baby Monitoring System]
+- 🤖 IoT-based Baby Monitoring System
   Real-time IoT alerts for baby crying and temperature using Arduino & sensors.
 
-- 💬 [WhatsApp Chatbot for GGSF](https://github.com/tinaalokhande/ggsf-chatbot)  
+- 💬 [WhatsApp Chatbot for GGSF]
   Created Python chatbot to assist college admissions & FAQs.
 
 ---
