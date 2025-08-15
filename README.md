@@ -4,7 +4,7 @@
 🎓 Computer Engineering | Data Science & Analytics (PGD)  
 💡 Passionate about transforming data into insights  
 💼 Aspiring Data Analyst | Python • SQL • Power BI  
-📫 Reach me at: lokhandetinaa@email.com  
+📫 Reach me at: lokhandetinaa@gmail.com  
 
 ---
 
