@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Tina Lokhande
 
-🎓 Computer Engineering | Data Science & Analytics (PGD)  
+🎓 Computer Engineering Graduate| Data Science & Analytics (PGD)  
 💡 Passionate about transforming data into insights  
-💼 Aspiring Data Analyst | Python • SQL • Power BI  
+💼 Data Analyst | Python • SQL • Power BI  • Excel • Machine Learning   
 📫 Reach me at: lokhandetinaa@gmail.com  
 
 ---
